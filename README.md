@@ -4,9 +4,11 @@ I’m @pwnyprod / phY (Jonas Hoppe) a mainly PHP Developer working on valantic C
 the stuff on the Internet and while this is clearly impossible for now I started with Python and Typescript stuff.
 I love to explore new Technology and Software.
 
+I also got some cool private Projects im working on in my Gitlab, maybe we could talk about :beers: .
+
 If you wanna contact me or just wanna have a talk or a question from a Projekt I collaborate, feel free to contact me.
 
-#### Contact
+#### :heart_eyes: Contact
 
 Website: [it-jh.de](https://it-jh.de)
 
@@ -14,27 +16,27 @@ Discord: [Invite](https://dc.phy0.de)
 
 Mail: info@it-jh.de
 
-#### � My GitHub Statistics
+#### :muscle: My GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pwnyprod&show_icons=true&theme=radical)
 
-#### � Check out what I'm currently working on
+#### :zap: Check out what I'm currently working on
 
 - [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (3 months ago)
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (7 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (10 months ago)
 - [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP (10 months ago)
 
-#### � My latest projects
+#### :fries: My latest projects
 
 - [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration
 
-#### � Latest releases I've contributed to
+#### :chocolate_bar: Latest releases I've contributed to
 
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 7 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 
-#### � My recent Pull Requests
+#### :cookie: My recent Pull Requests
 
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (2 months ago)
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (2 months ago)
@@ -46,10 +48,6 @@ Mail: info@it-jh.de
 - [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (3 months ago)
 - [Add GitHub/Gitlab notifications action](https://github.com/SantiMA10/devops-streamdeck/pull/56) on [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) (7 months ago)
 - [Refactored and Updated](https://github.com/grantlucas/phantoman/pull/65) on [grantlucas/phantoman](https://github.com/grantlucas/phantoman) (2 years ago)
-
-#### � Gists I wrote
-
-- [](https://gist.github.com/ddc33c5a5b6f6e897f3d4dbd7adcc45e) (4 years ago)
 
 #### ⭐ Recent Stars
 
