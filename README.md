@@ -51,13 +51,13 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (1 day ago)
-- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (1 day ago)
-- [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (2 days ago)
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (5 days ago)
+- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (2 days ago)
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (2 days ago)
+- [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (3 days ago)
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (6 days ago)
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide (1 week ago)
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed &amp; power optimizer for Linux (1 week ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 week ago)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 week ago)
-- [lisaah/emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost. (1 week ago)
-- [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck (3 weeks ago)
+- [lisaah/emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost. (2 weeks ago)
+- [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck (4 weeks ago)
