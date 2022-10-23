@@ -57,7 +57,7 @@ Mail: info@it-jh.de
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (1 week ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (2 weeks ago)
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide (2 weeks ago)
-- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed &amp; power optimizer for Linux (2 weeks ago)
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed &amp; power optimizer for Linux (3 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 weeks ago)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (3 weeks ago)
 - [lisaah/emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost. (3 weeks ago)
