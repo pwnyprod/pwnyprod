@@ -52,6 +52,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (today)
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (2 weeks ago)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (2 weeks ago)
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (2 weeks ago)
@@ -61,4 +62,3 @@ Mail: info@it-jh.de
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 weeks ago)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (3 weeks ago)
 - [lisaah/emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost. (3 weeks ago)
-- [nchristopher/steamdeck-emulation](https://github.com/nchristopher/steamdeck-emulation) - 🎮 A guide for playing emulated games on Steam Deck (1 month ago)
