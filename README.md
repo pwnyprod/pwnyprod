@@ -52,6 +52,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (2 days ago)
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (2 weeks ago)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (2 weeks ago)
@@ -61,4 +62,3 @@ Mail: info@it-jh.de
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed &amp; power optimizer for Linux (3 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (4 weeks ago)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (4 weeks ago)
-- [lisaah/emojiporter](https://github.com/lisaah/emojiporter) - CLI utility to export/import custom emojis for Mattermost. (4 weeks ago)
