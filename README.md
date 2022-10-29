@@ -52,8 +52,8 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (today)
-- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (2 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (3 days ago)
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (2 weeks ago)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (2 weeks ago)
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (2 weeks ago)
