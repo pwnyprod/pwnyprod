@@ -34,7 +34,7 @@ Mail: info@it-jh.de
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 2 weeks ago) - Supports the development of Spryker applications with Intellij Integration.
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 3 weeks ago) - Supports the development of Spryker applications with Intellij Integration.
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 8 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 
 #### :cookie: My recent Pull Requests
@@ -52,7 +52,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (6 days ago)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (1 week ago)
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (3 weeks ago)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (3 weeks ago)
