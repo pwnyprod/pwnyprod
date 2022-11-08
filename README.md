@@ -43,7 +43,7 @@ Mail: info@it-jh.de
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (3 months ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (3 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (3 months ago)
-- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (3 months ago)
+- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
 - [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
 - [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
@@ -52,11 +52,11 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (today)
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (1 day ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (1 week ago)
-- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (3 weeks ago)
-- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (3 weeks ago)
+- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (4 weeks ago)
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (4 weeks ago)
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (4 weeks ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (1 month ago)
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.  (1 month ago)
