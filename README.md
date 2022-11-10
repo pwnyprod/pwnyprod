@@ -34,7 +34,7 @@ Mail: info@it-jh.de
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 3 weeks ago) - Supports the development of Spryker applications with Intellij Integration.
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 4 weeks ago) - Supports the development of Spryker applications with Intellij Integration.
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 8 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 
 #### :cookie: My recent Pull Requests
@@ -52,11 +52,11 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (2 days ago)
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (3 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (2 weeks ago)
-- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (4 weeks ago)
-- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (4 weeks ago)
+- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (1 month ago)
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (1 month ago)
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (1 month ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (1 month ago)
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.  (1 month ago)
