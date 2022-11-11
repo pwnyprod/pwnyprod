@@ -22,7 +22,7 @@ Mail: info@it-jh.de
 
 #### :zap: Check out what I'm currently working on
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (3 months ago)
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (4 months ago)
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (8 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (11 months ago)
 - [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP (11 months ago)
@@ -52,9 +52,9 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (today)
-- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (3 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
+- [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (1 day ago)
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (4 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 weeks ago)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (2 weeks ago)
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (1 month ago)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (1 month ago)
