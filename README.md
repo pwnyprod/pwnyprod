@@ -40,8 +40,8 @@ Mail: info@it-jh.de
 #### :cookie: My recent Pull Requests
 
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (3 months ago)
-- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (3 months ago)
-- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (3 months ago)
+- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (4 months ago)
+- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (4 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
@@ -52,7 +52,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (4 days ago)
+- [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (5 days ago)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (1 week ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 weeks ago)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (2 weeks ago)
