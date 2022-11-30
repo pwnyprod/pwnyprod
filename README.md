@@ -23,7 +23,7 @@ Mail: info@it-jh.de
 #### :zap: Check out what I'm currently working on
 
 - [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (4 months ago)
-- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (8 months ago)
+- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (9 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (11 months ago)
 - [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP (11 months ago)
 
@@ -35,7 +35,7 @@ Mail: info@it-jh.de
 #### :chocolate_bar: Latest releases I've contributed to
 
 - [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 1 month ago) - Supports the development of Spryker applications with Intellij Integration.
-- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 8 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
+- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 9 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 
 #### :cookie: My recent Pull Requests
 
