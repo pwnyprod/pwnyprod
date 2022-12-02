@@ -24,8 +24,8 @@ Mail: info@it-jh.de
 
 - [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (4 months ago)
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (9 months ago)
-- [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (11 months ago)
-- [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP (11 months ago)
+- [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (1 year ago)
+- [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP (1 year ago)
 
 #### :fries: My latest projects
 
@@ -61,4 +61,4 @@ Mail: info@it-jh.de
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (1 month ago)
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (1 month ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (1 month ago)
-- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.  (1 month ago)
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.  (2 months ago)
