@@ -44,9 +44,9 @@ Mail: info@it-jh.de
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (4 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
-- [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
-- [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
-- [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (4 months ago)
+- [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (5 months ago)
+- [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (5 months ago)
+- [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (5 months ago)
 - [Add GitHub/Gitlab notifications action](https://github.com/SantiMA10/devops-streamdeck/pull/56) on [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) (9 months ago)
 - [Refactored and Updated](https://github.com/grantlucas/phantoman/pull/65) on [grantlucas/phantoman](https://github.com/grantlucas/phantoman) (2 years ago)
 
@@ -54,7 +54,7 @@ Mail: info@it-jh.de
 
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (2 weeks ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (3 weeks ago)
-- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (3 weeks ago)
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (4 weeks ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 month ago)
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms (1 month ago)
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (1 month ago)
