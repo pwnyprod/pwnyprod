@@ -41,7 +41,7 @@ Mail: info@it-jh.de
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (5 months ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (5 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (5 months ago)
-- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (5 months ago)
+- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (6 months ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (6 months ago)
 - [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (6 months ago)
 - [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (6 months ago)
