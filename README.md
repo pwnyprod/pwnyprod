@@ -37,7 +37,7 @@ Mail: info@it-jh.de
 
 #### :cookie: My recent Pull Requests
 
-- [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (5 months ago)
+- [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (6 months ago)
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (6 months ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (6 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (6 months ago)
@@ -50,7 +50,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (2 days ago)
+- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (3 days ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (2 months ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (2 months ago)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (2 months ago)
