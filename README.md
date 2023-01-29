@@ -23,7 +23,7 @@ Mail: info@it-jh.de
 #### :zap: Check out what I'm currently working on
 
 - [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (6 months ago)
-- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (10 months ago)
+- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck. (11 months ago)
 
 #### :fries: My latest projects
 
@@ -33,7 +33,7 @@ Mail: info@it-jh.de
 #### :chocolate_bar: Latest releases I've contributed to
 
 - [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.7](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.7), 3 months ago) - Supports the development of Spryker applications with Intellij Integration.
-- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 10 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
+- [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) ([v1.7.0](https://github.com/SantiMA10/devops-streamdeck/releases/tag/v1.7.0), 11 months ago) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 
 #### :cookie: My recent Pull Requests
 
@@ -50,7 +50,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (3 days ago)
+- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (4 days ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (2 months ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (2 months ago)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (2 months ago)
