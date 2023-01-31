@@ -50,6 +50,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (today)
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (6 days ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (2 months ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (2 months ago)
@@ -59,4 +60,3 @@ Mail: info@it-jh.de
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar  (3 months ago)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (3 months ago)
 - [rsmuc/antispambox](https://github.com/rsmuc/antispambox) - A docker container to filter mails with rspamd and spamassassin via IMAP - (This is just a mirror repository: see codeberg.org) (3 months ago)
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (3 months ago)
