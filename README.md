@@ -50,8 +50,8 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (today)
-- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (6 days ago)
+- [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (1 day ago)
+- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (1 week ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (2 months ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (2 months ago)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be. (2 months ago)
