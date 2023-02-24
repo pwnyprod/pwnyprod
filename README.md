@@ -45,14 +45,14 @@ Mail: info@it-jh.de
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (7 months ago)
 - [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (7 months ago)
 - [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (7 months ago)
-- [Add GitHub/Gitlab notifications action](https://github.com/SantiMA10/devops-streamdeck/pull/56) on [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) (11 months ago)
+- [Add GitHub/Gitlab notifications action](https://github.com/SantiMA10/devops-streamdeck/pull/56) on [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) (1 year ago)
 - [Refactored and Updated](https://github.com/grantlucas/phantoman/pull/65) on [grantlucas/phantoman](https://github.com/grantlucas/phantoman) (2 years ago)
 
 #### ⭐ Recent Stars
 
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers (3 weeks ago)
 - [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (3 weeks ago)
-- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (4 weeks ago)
+- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (1 month ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (3 months ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (3 months ago)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck. (3 months ago)
