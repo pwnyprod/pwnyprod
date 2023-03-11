@@ -22,7 +22,7 @@ Mail: info@it-jh.de
 
 #### :zap: Check out what I'm currently working on
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (7 months ago)
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (8 months ago)
 
 #### :fries: My latest projects
 
@@ -48,10 +48,10 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (today)
-- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (3 days ago)
-- [fayazara/onelink](https://github.com/fayazara/onelink) -  (3 days ago)
-- [fayazara/logspot](https://github.com/fayazara/logspot) -  (3 days ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (1 day ago)
+- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (4 days ago)
+- [fayazara/onelink](https://github.com/fayazara/onelink) -  (4 days ago)
+- [fayazara/logspot](https://github.com/fayazara/logspot) -  (4 days ago)
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers (1 month ago)
 - [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (1 month ago)
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (1 month ago)
