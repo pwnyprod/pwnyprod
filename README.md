@@ -48,6 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (today)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (2 days ago)
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (5 days ago)
 - [fayazara/onelink](https://github.com/fayazara/onelink) -  (5 days ago)
@@ -57,4 +58,3 @@ Mail: info@it-jh.de
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (1 month ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (3 months ago)
 - [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (4 months ago)
-- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck. (4 months ago)
