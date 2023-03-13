@@ -48,6 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (today)
 - [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (1 day ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (3 days ago)
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (6 days ago)
@@ -57,4 +58,3 @@ Mail: info@it-jh.de
 - [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (1 month ago)
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (1 month ago)
 - [mihirlad55/polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) - A collection of lightweight programs for use with a Polybar Spotify Module (3 months ago)
-- [norihiro/obs-vban](https://github.com/norihiro/obs-vban) - VBAN audio plugin for OBS Studio (4 months ago)
