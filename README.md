@@ -48,11 +48,11 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (today)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (2 days ago)
-- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (5 days ago)
-- [fayazara/onelink](https://github.com/fayazara/onelink) -  (5 days ago)
-- [fayazara/logspot](https://github.com/fayazara/logspot) -  (5 days ago)
+- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (1 day ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (3 days ago)
+- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (6 days ago)
+- [fayazara/onelink](https://github.com/fayazara/onelink) -  (6 days ago)
+- [fayazara/logspot](https://github.com/fayazara/logspot) -  (6 days ago)
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers (1 month ago)
 - [EVEInsight/Insight](https://github.com/EVEInsight/Insight) - Discord bot providing PvP activity tracking, intel, and utilities for the game EVE Online.  (1 month ago)
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application. (1 month ago)
