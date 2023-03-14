@@ -48,6 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (today)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (today)
 - [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (1 day ago)
 - [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (1 day ago)
@@ -57,4 +58,3 @@ Mail: info@it-jh.de
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (4 days ago)
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (1 week ago)
 - [fayazara/onelink](https://github.com/fayazara/onelink) -  (1 week ago)
-- [fayazara/logspot](https://github.com/fayazara/logspot) -  (1 week ago)
