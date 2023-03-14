@@ -48,13 +48,13 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (today)
-- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (today)
-- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (today)
-- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (today)
-- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (1 day ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (3 days ago)
-- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (6 days ago)
-- [fayazara/onelink](https://github.com/fayazara/onelink) -  (6 days ago)
-- [fayazara/logspot](https://github.com/fayazara/logspot) -  (6 days ago)
+- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (1 day ago)
+- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (1 day ago)
+- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (1 day ago)
+- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (1 day ago)
+- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (2 days ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (4 days ago)
+- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (1 week ago)
+- [fayazara/onelink](https://github.com/fayazara/onelink) -  (1 week ago)
+- [fayazara/logspot](https://github.com/fayazara/logspot) -  (1 week ago)
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers (1 month ago)
