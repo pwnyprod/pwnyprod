@@ -36,8 +36,8 @@ Mail: info@it-jh.de
 #### :cookie: My recent Pull Requests
 
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (7 months ago)
-- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (7 months ago)
-- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (7 months ago)
+- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (8 months ago)
+- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (8 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (8 months ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (8 months ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (8 months ago)
@@ -48,13 +48,13 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (today)
-- [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (today)
-- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (1 day ago)
-- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (1 day ago)
-- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (1 day ago)
-- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (1 day ago)
-- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (2 days ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (4 days ago)
+- [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (1 day ago)
+- [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (1 day ago)
+- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (2 days ago)
+- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (2 days ago)
+- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (2 days ago)
+- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (2 days ago)
+- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (3 days ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (5 days ago)
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (1 week ago)
 - [fayazara/onelink](https://github.com/fayazara/onelink) -  (1 week ago)
