@@ -55,6 +55,6 @@ Mail: info@it-jh.de
 - [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (1 week ago)
 - [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (1 week ago)
 - [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (1 week ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (1 week ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (2 weeks ago)
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (2 weeks ago)
 - [fayazara/onelink](https://github.com/fayazara/onelink) -  (2 weeks ago)
