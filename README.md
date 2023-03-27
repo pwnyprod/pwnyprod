@@ -48,6 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (today)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (1 week ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (1 week ago)
 - [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (2 weeks ago)
@@ -57,4 +58,3 @@ Mail: info@it-jh.de
 - [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (2 weeks ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (2 weeks ago)
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (2 weeks ago)
-- [fayazara/onelink](https://github.com/fayazara/onelink) -  (2 weeks ago)
