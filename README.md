@@ -35,7 +35,7 @@ Mail: info@it-jh.de
 
 #### :cookie: My recent Pull Requests
 
-- [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (7 months ago)
+- [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (8 months ago)
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (8 months ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (8 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (8 months ago)
@@ -48,7 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 day ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 days ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (2 weeks ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (2 weeks ago)
 - [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (2 weeks ago)
