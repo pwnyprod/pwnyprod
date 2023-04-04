@@ -48,6 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (today)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (3 weeks ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (3 weeks ago)
@@ -57,4 +58,3 @@ Mail: info@it-jh.de
 - [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (3 weeks ago)
 - [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (3 weeks ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (3 weeks ago)
-- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown. (4 weeks ago)
