@@ -31,7 +31,7 @@ Mail: info@it-jh.de
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.10](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.10), 3 days ago) - Supports the development of Spryker applications with Intellij Integration.
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.10](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.10), 4 days ago) - Supports the development of Spryker applications with Intellij Integration.
 
 #### :cookie: My recent Pull Requests
 
@@ -39,7 +39,7 @@ Mail: info@it-jh.de
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (8 months ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (8 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (8 months ago)
-- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (8 months ago)
+- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (9 months ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (9 months ago)
 - [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (9 months ago)
 - [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (9 months ago)
@@ -48,7 +48,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (2 days ago)
+- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (3 days ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (3 weeks ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (3 weeks ago)
@@ -57,4 +57,4 @@ Mail: info@it-jh.de
 - [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (3 weeks ago)
 - [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (3 weeks ago)
 - [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (3 weeks ago)
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (3 weeks ago)
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (4 weeks ago)
