@@ -22,7 +22,7 @@ Mail: info@it-jh.de
 
 #### :zap: Check out what I'm currently working on
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (8 months ago)
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) - Supports the development of Spryker applications with Intellij Integration. (9 months ago)
 
 #### :fries: My latest projects
 
@@ -31,7 +31,7 @@ Mail: info@it-jh.de
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.10](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.10), 6 days ago) - Supports the development of Spryker applications with Intellij Integration.
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.10](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.10), 1 week ago) - Supports the development of Spryker applications with Intellij Integration.
 
 #### :cookie: My recent Pull Requests
 
@@ -48,13 +48,13 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (5 days ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 week ago)
+- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (6 days ago)
+- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 weeks ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (3 weeks ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (3 weeks ago)
-- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (3 weeks ago)
-- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (3 weeks ago)
-- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (3 weeks ago)
-- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (3 weeks ago)
+- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (4 weeks ago)
+- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (4 weeks ago)
+- [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (4 weeks ago)
+- [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (4 weeks ago)
 - [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (4 weeks ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (1 month ago)
