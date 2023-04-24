@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Jonas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## <picture><img src = "https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/about_me.gif" width = 50px></picture> **About me**
 
 I’m @pwnyprod / phY (Jonas Hoppe) a mainly PHP Developer working on valantic CEC Deutschland GmbH who wanna learn all
 the stuff on the Internet and while this is clearly impossible for now I started with Python and Typescript stuff.
@@ -8,7 +10,9 @@ I also got some cool private Projects im working on in my Gitlab, maybe we could
 
 If you wanna contact me or just wanna have a talk or a question from a Projekt I collaborate, feel free to contact me.
 
-## Technologies I use
+<img src="https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/divider.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" />
@@ -31,6 +35,8 @@ If you wanna contact me or just wanna have a talk or a question from a Projekt I
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
 </p>
 
+<img src="https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/divider.gif"><br><br>
+
 #### :heart_eyes: Contact
 
 Website: [it-jh.de](https://it-jh.de)
@@ -38,6 +44,8 @@ Website: [it-jh.de](https://it-jh.de)
 Discord: [Invite](https://dc.phy0.de)
 
 Mail: info@it-jh.de
+
+<img src="https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/divider.gif"><br><br>
 
 #### :muscle: My GitHub Statistics
 
