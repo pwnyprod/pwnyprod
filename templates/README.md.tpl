@@ -8,6 +8,29 @@ I also got some cool private Projects im working on in my Gitlab, maybe we could
 
 If you wanna contact me or just wanna have a talk or a question from a Projekt I collaborate, feel free to contact me.
 
+## Technologies I use
+
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" />
+  <img alt="PHP" src="https://img.shields.io/badge/-php-informational?style=for-the-badge&logo=php&logoColor=white&color=8993be" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
+  <br />
+  
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178c6" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=openjdk&logoColor=black&color=FFFFFF" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF" />
+
+  <br />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=47A248" />
+</p>
+
 #### :heart_eyes: Contact
 
 Website: [it-jh.de](https://it-jh.de)
