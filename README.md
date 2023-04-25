@@ -79,8 +79,8 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API. (2 days ago)
-- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (2 weeks ago)
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API. (3 days ago)
+- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (3 weeks ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (4 weeks ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (1 month ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (1 month ago)
