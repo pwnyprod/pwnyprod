@@ -79,6 +79,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (today)
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API. (4 days ago)
 - [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (3 weeks ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 month ago)
@@ -88,4 +89,3 @@ Mail: info@it-jh.de
 - [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (1 month ago)
 - [lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component (1 month ago)
 - [maxflex/v-number](https://github.com/maxflex/v-number) - Animated number transition library for Vue.js (1 month ago)
-- [SirEndii/Lua-Projects](https://github.com/SirEndii/Lua-Projects) -  (1 month ago)
