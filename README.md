@@ -62,7 +62,7 @@ Mail: info@it-jh.de
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.11](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.11), 6 days ago) - Supports the development of Spryker applications with Intellij Integration.
+- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.11](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.11), 1 week ago) - Supports the development of Spryker applications with Intellij Integration.
 
 #### :cookie: My recent Pull Requests
 
@@ -79,11 +79,11 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (5 days ago)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency. (5 days ago)
-- [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (5 days ago)
+- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (6 days ago)
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency. (6 days ago)
+- [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (6 days ago)
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API. (1 week ago)
-- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (3 weeks ago)
+- [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (4 weeks ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 month ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (1 month ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (1 month ago)
