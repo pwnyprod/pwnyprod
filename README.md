@@ -79,9 +79,9 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (6 days ago)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency. (6 days ago)
-- [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (6 days ago)
+- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (1 week ago)
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency. (1 week ago)
+- [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (1 week ago)
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API. (1 week ago)
 - [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (4 weeks ago)
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 month ago)
