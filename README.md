@@ -87,5 +87,5 @@ Mail: info@it-jh.de
 - [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (1 month ago)
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (1 month ago)
 - [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (1 month ago)
-- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (1 month ago)
-- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (1 month ago)
+- [LuXDAmore/vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - 🖱 An animated custom cursor effects for interactive elements like navigation - w/ VueJS - SSR Compatible (2 months ago)
+- [turkyden/vue-typical](https://github.com/turkyden/vue-typical) - 🐡 Vue Animated typing in ~400 bytes of JavaScript (2 months ago)
