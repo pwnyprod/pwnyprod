@@ -79,6 +79,9 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This is a Discord Chatbot that can also Detect image, Access internet , Generate Image, summarize any Youtube video with transcript (today)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (today)
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (today)
 - [NickBrisebois/DiscordChatAI-GPT2](https://github.com/NickBrisebois/DiscordChatAI-GPT2) - A chat AI discord bot written in python3 using GPT-2, trained on data scraped from every message of my discord server (can be trained on yours too) (today)
 - [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord. (today)
 - [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (1 month ago)
@@ -86,6 +89,3 @@ Mail: info@it-jh.de
 - [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (1 month ago)
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API. (1 month ago)
 - [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules (1 month ago)
-- [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) - An easy-to-deploy Dockerized Foundry Virtual Tabletop server. (2 months ago)
-- [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream (2 months ago)
-- [vexuas/nessie](https://github.com/vexuas/nessie) - Apex Legends - Map Status Discord Bot (2 months ago)
