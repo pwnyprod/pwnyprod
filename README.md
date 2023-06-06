@@ -70,7 +70,7 @@ Mail: info@it-jh.de
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (10 months ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (10 months ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (10 months ago)
-- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (10 months ago)
+- [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (11 months ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (11 months ago)
 - [#1 adding build action](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/14) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (11 months ago)
 - [#9](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/10) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (11 months ago)
@@ -79,7 +79,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (4 days ago)
+- [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (5 days ago)
 - [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This is a highly customizable Discord chatbot that can detect images, access the internet, generate images, and summarize any YouTube video along with its transcript. (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
