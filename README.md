@@ -81,7 +81,7 @@ Mail: info@it-jh.de
 
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (1 day ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (6 days ago)
-- [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This is a highly customizable Discord chatbot that can detect images, access the internet, generate images, and summarize any YouTube video along with its transcript. (1 week ago)
+- [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This Discord chatbot is incredibly versatile, offering a wide range of customization options. It possesses the ability to detect images, access the internet, generate images, and even provide comprehensive summaries of YouTube videos, complete with their transcripts. (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
 - [NickBrisebois/DiscordChatAI-GPT2](https://github.com/NickBrisebois/DiscordChatAI-GPT2) - A chat AI discord bot written in python3 using GPT-2, trained on data scraped from every message of my discord server (can be trained on yours too) (1 week ago)
