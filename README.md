@@ -79,6 +79,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (today)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (2 weeks ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (3 weeks ago)
 - [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This Discord chatbot is incredibly versatile, offering a wide range of customization options. It possesses the ability to detect images, access the internet, generate images, and even provide comprehensive summaries of YouTube videos  (3 weeks ago)
@@ -88,4 +89,3 @@ Mail: info@it-jh.de
 - [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord. (3 weeks ago)
 - [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (1 month ago)
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency. (1 month ago)
-- [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot (1 month ago)
