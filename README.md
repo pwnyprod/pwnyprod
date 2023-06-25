@@ -79,7 +79,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (2 days ago)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (3 days ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (2 weeks ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (3 weeks ago)
 - [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This Discord chatbot is incredibly versatile, offering a wide range of customization options. It possesses the ability to detect images, access the internet, generate images, and even provide comprehensive summaries of YouTube videos  (4 weeks ago)
@@ -87,5 +87,5 @@ Mail: info@it-jh.de
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (4 weeks ago)
 - [NickBrisebois/DiscordChatAI-GPT2](https://github.com/NickBrisebois/DiscordChatAI-GPT2) - A chat AI discord bot written in python3 using GPT-2, trained on data scraped from every message of my discord server (can be trained on yours too) (4 weeks ago)
 - [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord. (4 weeks ago)
-- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (1 month ago)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency. (1 month ago)
+- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (2 months ago)
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency. (2 months ago)
