@@ -79,6 +79,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (today)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (2 weeks ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (1 month ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (1 month ago)
@@ -88,4 +89,3 @@ Mail: info@it-jh.de
 - [NickBrisebois/DiscordChatAI-GPT2](https://github.com/NickBrisebois/DiscordChatAI-GPT2) - A chat AI discord bot written in python3 using GPT-2, trained on data scraped from every message of my discord server (can be trained on yours too) (1 month ago)
 - [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord. (1 month ago)
 - [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (2 months ago)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency. (2 months ago)
