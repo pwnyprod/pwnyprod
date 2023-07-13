@@ -67,8 +67,8 @@ Mail: info@it-jh.de
 #### :cookie: My recent Pull Requests
 
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (11 months ago)
-- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (11 months ago)
-- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (11 months ago)
+- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (1 year ago)
+- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (1 year ago)
 - [added labler config and workflow for PR](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/22) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (1 year ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/20) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (1 year ago)
 - [#1 adding linter](https://github.com/nexusunited/spryker-kit-intellij-plugin/pull/17) on [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) (1 year ago)
@@ -79,8 +79,8 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (2 days ago)
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (2 weeks ago)
+- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (3 days ago)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (3 weeks ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (1 month ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (1 month ago)
 - [mishalhossin/Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This Discord chatbot is incredibly versatile, offering a wide range of customization options.  (1 month ago)
