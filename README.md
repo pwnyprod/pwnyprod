@@ -62,7 +62,6 @@ Mail: info@it-jh.de
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [nexusunited/spryker-kit-intellij-plugin](https://github.com/nexusunited/spryker-kit-intellij-plugin) ([1.0.11](https://github.com/nexusunited/spryker-kit-intellij-plugin/releases/tag/1.0.11), 2 months ago) - Supports the development of Spryker applications with Intellij Integration.
 
 #### :cookie: My recent Pull Requests
 
