@@ -78,7 +78,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (5 days ago)
+- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (6 days ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (3 weeks ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (1 month ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (1 month ago)
