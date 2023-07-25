@@ -86,4 +86,4 @@ Mail: info@it-jh.de
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 month ago)
 - [NickBrisebois/DiscordChatAI-GPT2](https://github.com/NickBrisebois/DiscordChatAI-GPT2) - A chat AI discord bot written in python3 using GPT-2, trained on data scraped from every message of my discord server (can be trained on yours too) (1 month ago)
 - [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord. (1 month ago)
-- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (2 months ago)
+- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (3 months ago)
