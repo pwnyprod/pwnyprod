@@ -77,7 +77,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (2 days ago)
+- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (3 days ago)
 - [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (1 month ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (2 months ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (2 months ago)
