@@ -77,9 +77,9 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (4 weeks ago)
+- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (1 month ago)
 - [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (2 months ago)
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (2 months ago)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (3 months ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (3 months ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (3 months ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 months ago)
