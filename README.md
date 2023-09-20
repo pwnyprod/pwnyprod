@@ -77,6 +77,8 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (today)
+- [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (today)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (1 month ago)
 - [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (2 months ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (3 months ago)
@@ -85,5 +87,3 @@ Mail: info@it-jh.de
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 months ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (3 months ago)
 - [NickBrisebois/DiscordChatAI-GPT2](https://github.com/NickBrisebois/DiscordChatAI-GPT2) - A chat AI discord bot written in python3 using GPT-2, trained on data scraped from every message of my discord server (can be trained on yours too) (3 months ago)
-- [Wildric-Auric/MidJourney-Wrapper](https://github.com/Wildric-Auric/MidJourney-Wrapper) - MidJourney wrapper in Discord. (3 months ago)
-- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics... (4 months ago)
