@@ -73,12 +73,12 @@ Mail: info@it-jh.de
 - [#1 adding build action](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/14) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
 - [#9](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/10) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
 - [Add GitHub/Gitlab notifications action](https://github.com/SantiMA10/devops-streamdeck/pull/56) on [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) (2 years ago)
-- [Refactored and Updated](https://github.com/grantlucas/phantoman/pull/65) on [grantlucas/phantoman](https://github.com/grantlucas/phantoman) (2 years ago)
+- [Refactored and Updated](https://github.com/grantlucas/phantoman/pull/65) on [grantlucas/phantoman](https://github.com/grantlucas/phantoman) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (4 days ago)
-- [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (4 days ago)
+- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (5 days ago)
+- [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (5 days ago)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (1 month ago)
 - [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (2 months ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (3 months ago)
