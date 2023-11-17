@@ -64,7 +64,7 @@ Mail: info@it-jh.de
 
 #### :cookie: My recent Pull Requests
 
-- [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (3 weeks ago)
+- [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (4 weeks ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (1 year ago)
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (1 year ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (1 year ago)
