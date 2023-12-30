@@ -70,9 +70,9 @@ Mail: info@it-jh.de
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (1 year ago)
 - [added labler config and workflow for PR](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/22) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/20) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
-- [#1 adding linter](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/17) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
-- [#1 adding build action](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/14) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
-- [#9](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/10) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (1 year ago)
+- [#1 adding linter](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/17) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
+- [#1 adding build action](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/14) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
+- [#9](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/10) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 - [Add GitHub/Gitlab notifications action](https://github.com/SantiMA10/devops-streamdeck/pull/56) on [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) (2 years ago)
 
 #### ⭐ Recent Stars
