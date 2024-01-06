@@ -77,13 +77,13 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (2 days ago)
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (3 days ago)
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (2 months ago)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (3 months ago)
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (3 months ago)
 - [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (3 months ago)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (4 months ago)
-- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (5 months ago)
+- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (6 months ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (6 months ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (7 months ago)
 - [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (7 months ago)
