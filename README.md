@@ -66,8 +66,8 @@ Mail: info@it-jh.de
 
 - [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (2 months ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (1 year ago)
-- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (1 year ago)
-- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (1 year ago)
+- [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (2 years ago)
+- [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (2 years ago)
 - [added labler config and workflow for PR](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/22) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/20) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 - [#1 adding linter](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/17) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
@@ -77,7 +77,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (5 days ago)
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (6 days ago)
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (2 months ago)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (3 months ago)
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (3 months ago)
