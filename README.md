@@ -77,6 +77,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (today)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (3 weeks ago)
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (3 months ago)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (3 months ago)
@@ -86,4 +87,3 @@ Mail: info@it-jh.de
 - [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (6 months ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (7 months ago)
 - [xxcodianxx/sot-server-finder](https://github.com/xxcodianxx/sot-server-finder) - Bruteforce connecting to a specific Sea of Thieves server. Useful if you want to be in the same server as your friends. (7 months ago)
-- [BilliAlpha/discord-transfer](https://github.com/BilliAlpha/discord-transfer) - A discord bot for copying messages between guilds (8 months ago)
