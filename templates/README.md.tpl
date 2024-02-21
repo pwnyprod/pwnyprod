@@ -8,7 +8,7 @@ I love to explore new Technology and Software.
 
 I also got some cool private Projects im working on in my Gitlab, maybe we could talk about :beers: .
 
-If you wanna contact me or just wanna have a talk or a question from a Projekt I collaborate, feel free to contact me.
+If you wanna contact me or just wanna have a talk or a question from a Project I collaborate, feel free to contact me.
 
 <img src="https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/divider.gif"><br><br>
 
@@ -39,9 +39,7 @@ If you wanna contact me or just wanna have a talk or a question from a Projekt I
 
 #### :heart_eyes: Contact
 
-Website: [it-jh.de](https://it-jh.de)
-
-Discord: [Invite](https://dc.phy0.de)
+Website: [My LinkStack](https://linkstack.phy0.de/@daseulennest)
 
 Mail: info@it-jh.de
 
