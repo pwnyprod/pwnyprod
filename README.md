@@ -62,7 +62,7 @@ Mail: info@it-jh.de
 
 #### :cookie: My recent Pull Requests
 
-- [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (4 months ago)
+- [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (5 months ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (2 years ago)
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (2 years ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (2 years ago)
@@ -75,13 +75,13 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [balena-io-experimental/balena-prometheus-grafana](https://github.com/balena-io-experimental/balena-prometheus-grafana) -  (1 week ago)
+- [balena-io-experimental/balena-prometheus-grafana](https://github.com/balena-io-experimental/balena-prometheus-grafana) -  (2 weeks ago)
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (1 month ago)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (2 months ago)
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (4 months ago)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (5 months ago)
-- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (5 months ago)
-- [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (5 months ago)
-- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (6 months ago)
+- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime data set containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (6 months ago)
+- [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (6 months ago)
+- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (7 months ago)
 - [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (8 months ago)
-- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (8 months ago)
+- [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (9 months ago)
