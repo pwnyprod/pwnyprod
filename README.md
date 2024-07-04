@@ -83,5 +83,5 @@ Mail: info@it-jh.de
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (9 months ago)
 - [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (9 months ago)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (10 months ago)
-- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (11 months ago)
+- [patrickjaja/open-ai](https://github.com/patrickjaja/open-ai) -  (1 year ago)
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all! (1 year ago)
