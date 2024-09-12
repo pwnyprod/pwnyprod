@@ -75,6 +75,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (today)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (2 weeks ago)
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer. (2 weeks ago)
 - [balena-io-experimental/balena-prometheus-grafana](https://github.com/balena-io-experimental/balena-prometheus-grafana) -  (6 months ago)
@@ -84,4 +85,3 @@ Mail: info@it-jh.de
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (11 months ago)
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (11 months ago)
 - [tutkli/jikan-ts](https://github.com/tutkli/jikan-ts) - Jikan API wrapper for Typescript and NodeJS with built in typings. (11 months ago)
-- [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too. (1 year ago)
