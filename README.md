@@ -75,6 +75,7 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (today)
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (1 week ago)
 - [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (1 week ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (4 weeks ago)
@@ -84,4 +85,3 @@ Mail: info@it-jh.de
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (8 months ago)
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app (11 months ago)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (11 months ago)
-- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... (1 year ago)
