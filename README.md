@@ -75,8 +75,8 @@ Mail: info@it-jh.de
 
 #### ⭐ Recent Stars
 
-- [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (today)
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (1 day ago)
+- [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (1 day ago)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (2 days ago)
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (1 week ago)
 - [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (2 weeks ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 month ago)
