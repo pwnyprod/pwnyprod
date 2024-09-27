@@ -37,14 +37,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 <img src="https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/divider.gif"><br><br>
 
-#### :heart_eyes: Contact
-
-Website: [My LinkStack](https://linkstack.phy0.de/@daseulennest)
-
-Mail: info@it-jh.de
-
-<img src="https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/divider.gif"><br><br>
-
 #### :muscle: My GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pwnyprod&show_icons=true&theme=radical)
