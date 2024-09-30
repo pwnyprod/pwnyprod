@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://raw.githubusercontent.com/pwnyprod/pwnyprod/main/about_me.gif" width = 50px></picture> **About me**
 
-I’m @pwnyprod / phY (Jonas Hoppe) a mainly PHP Developer working on valantic CEC Deutschland GmbH who wanna learn all
+I’m @pwnyprod / phY (Jonas Hoppe) a mainly PHP Developer working on Lekkerland SE who wanna learn all
 the stuff on the Internet and while this is clearly impossible for now I started with Python and Typescript stuff.
 I love to explore new Technology and Software.
 
