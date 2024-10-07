@@ -43,7 +43,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [pwnyprod/confluence-space-sync-plugin](https://github.com/pwnyprod/confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (3 days ago)
+- [pwnyprod/confluence-space-sync-plugin](https://github.com/pwnyprod/confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (4 days ago)
 
 #### :fries: My latest projects
 
