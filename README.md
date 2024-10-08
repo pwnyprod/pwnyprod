@@ -55,6 +55,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
+- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (today)
 - [Feature: ToDo is Child of Heading](https://github.com/lumoe/obsidian-rollover-daily-todos/pull/148) on [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) (4 weeks ago)
 - [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (11 months ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (2 years ago)
@@ -64,7 +65,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/20) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 - [#1 adding linter](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/17) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 - [#1 adding build action](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/14) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
-- [#9](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/10) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 
 #### ⭐ Recent Stars
 
