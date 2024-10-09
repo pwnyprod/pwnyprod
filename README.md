@@ -55,7 +55,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
-- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (today)
+- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (1 day ago)
 - [Feature: ToDo is Child of Heading](https://github.com/lumoe/obsidian-rollover-daily-todos/pull/148) on [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) (4 weeks ago)
 - [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (11 months ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (2 years ago)
@@ -70,8 +70,8 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (1 week ago)
 - [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (1 week ago)
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (1 week ago)
-- [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (2 weeks ago)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (2 weeks ago)
+- [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (3 weeks ago)
 - [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (3 weeks ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 month ago)
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer. (1 month ago)
