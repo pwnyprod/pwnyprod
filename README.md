@@ -41,7 +41,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pwnyprod&show_icons=true&theme=radical)
 
-#### Some small Scripts that maybe helps you
+#### :floppy_disk: Some small Scripts that maybe helps you
 - [get_outlook_appointment_list.scpt](https://gist.github.com/pwnyprod/cb3785c9f2622b816317044a547241e5) - Applescript that scraps Outlook todays Events as list
 
 #### :zap: Check out what I'm currently working on
