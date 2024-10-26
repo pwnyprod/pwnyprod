@@ -72,12 +72,12 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### ⭐ Recent Stars
 
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (4 weeks ago)
-- [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (4 weeks ago)
+- [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (1 month ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (1 month ago)
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (1 month ago)
 - [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (1 month ago)
-- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 month ago)
-- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer. (1 month ago)
+- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (2 months ago)
+- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer. (2 months ago)
 - [balena-io-experimental/balena-prometheus-grafana](https://github.com/balena-io-experimental/balena-prometheus-grafana) -  (7 months ago)
-- [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (8 months ago)
+- [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (9 months ago)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (9 months ago)
