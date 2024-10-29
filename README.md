@@ -58,7 +58,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
-- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (2 weeks ago)
+- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (3 weeks ago)
 - [Feature: ToDo is Child of Heading](https://github.com/lumoe/obsidian-rollover-daily-todos/pull/148) on [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) (1 month ago)
 - [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (1 year ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (2 years ago)
@@ -80,4 +80,4 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer. (2 months ago)
 - [balena-io-experimental/balena-prometheus-grafana](https://github.com/balena-io-experimental/balena-prometheus-grafana) -  (7 months ago)
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (9 months ago)
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (9 months ago)
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (10 months ago)
