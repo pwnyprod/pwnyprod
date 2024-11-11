@@ -75,7 +75,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (1 month ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (1 month ago)
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (1 month ago)
-- [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (1 month ago)
+- [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (2 months ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (2 months ago)
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer. (2 months ago)
 - [balena-io-experimental/balena-prometheus-grafana](https://github.com/balena-io-experimental/balena-prometheus-grafana) -  (8 months ago)
