@@ -73,7 +73,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (2 months ago)
 - [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (2 months ago)
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (2 months ago)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (3 months ago)
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (3 months ago)
 - [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (3 months ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (3 months ago)
