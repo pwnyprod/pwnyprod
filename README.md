@@ -71,7 +71,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons. (today)
+- [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons. (1 day ago)
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (3 months ago)
 - [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (3 months ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (3 months ago)
