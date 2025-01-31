@@ -57,7 +57,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.3](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.3), 1 day ago) - Community plugins list, theme list, and releases of Obsidian.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.4](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.4), today) - Community plugins list, theme list, and releases of Obsidian.
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 3 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
 #### :cookie: My recent Pull Requests
