@@ -57,7 +57,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.7](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.7), 3 days ago) - Community plugins list, theme list, and releases of Obsidian.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.7](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.7), 4 days ago) - Community plugins list, theme list, and releases of Obsidian.
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 4 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
 #### :cookie: My recent Pull Requests
@@ -80,7 +80,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons. (1 month ago)
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (4 months ago)
 - [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (4 months ago)
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (4 months ago)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (5 months ago)
 - [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc. (5 months ago)
 - [ALDIDigitalServices/ComposerPackageDevelopmentToolset](https://github.com/ALDIDigitalServices/ComposerPackageDevelopmentToolset) - A Composer Plugin that enables package development within a package consuming project. (5 months ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (5 months ago)
