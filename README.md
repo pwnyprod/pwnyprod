@@ -58,7 +58,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.7](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.7), 1 week ago) - Community plugins list, theme list, and releases of Obsidian.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.7](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.7), 2 weeks ago) - Community plugins list, theme list, and releases of Obsidian.
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 4 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
 #### :cookie: My recent Pull Requests
@@ -77,7 +77,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### ⭐ Recent Stars
 
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Bot (2 weeks ago)
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (3 weeks ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (4 weeks ago)
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons. (1 month ago)
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (5 months ago)
 - [nexusunited/nxsspryker-sentry](https://github.com/nexusunited/nxsspryker-sentry) -  (5 months ago)
