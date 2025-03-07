@@ -48,7 +48,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Bot (1 week ago)
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (1 month ago)
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (4 months ago)
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (5 months ago)
 
 #### :fries: My latest projects
 
@@ -58,14 +58,14 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.1.0](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.1.0), today) - Russian Fishing 4 Bot
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.9), 1 day ago) - Community plugins list, theme list, and releases of Obsidian.
-- [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 4 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.1.0](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.1.0), 1 day ago) - Russian Fishing 4 Bot
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.9), 2 days ago) - Community plugins list, theme list, and releases of Obsidian.
+- [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 5 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
 #### :cookie: My recent Pull Requests
 
 - [Feature: adding reel burning detection](https://github.com/dereklee0310/RussianFishing4Script/pull/47) on [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) (3 weeks ago)
-- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (4 months ago)
+- [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (5 months ago)
 - [Feature: ToDo is Child of Heading](https://github.com/lumoe/obsidian-rollover-daily-todos/pull/148) on [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) (5 months ago)
 - [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (1 year ago)
 - [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (2 years ago)
@@ -77,7 +77,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (2 days ago)
+- [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (3 days ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Bot (3 weeks ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 month ago)
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons. (1 month ago)
