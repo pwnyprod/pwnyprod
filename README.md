@@ -64,6 +64,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
+- [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (today)
 - [Feature: adding reel burning detection](https://github.com/dereklee0310/RussianFishing4Script/pull/47) on [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) (3 weeks ago)
 - [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (5 months ago)
 - [Feature: ToDo is Child of Heading](https://github.com/lumoe/obsidian-rollover-daily-todos/pull/148) on [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) (6 months ago)
@@ -73,7 +74,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (2 years ago)
 - [added labler config and workflow for PR](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/22) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 - [added missing IDE Versions and fixing qodana warnings](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/20) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
-- [#1 adding linter](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/17) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (2 years ago)
 
 #### ⭐ Recent Stars
 
