@@ -46,6 +46,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
+- [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (today)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Bot (3 weeks ago)
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (2 months ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (5 months ago)
