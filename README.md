@@ -59,7 +59,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.4.1](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.4.1), 1 week ago) - Russian Fishing 4 Bot
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.4.2](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.4.2), today) - Russian Fishing 4 Bot
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.9), 1 month ago) - Community plugins list, theme list, and releases of Obsidian.
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 6 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
