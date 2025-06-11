@@ -59,7 +59,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.5.2](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.5.2), 2 days ago) - Russian Fishing 4 Bot
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.5.2](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.5.2), 3 days ago) - Russian Fishing 4 Bot
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.8.10](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10), 1 month ago) - Community plugins list, theme list, and releases of Obsidian.
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 8 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
@@ -78,7 +78,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (2 months ago)
+- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (3 months ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (3 months ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Bot (3 months ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (4 months ago)
