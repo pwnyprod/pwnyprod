@@ -59,7 +59,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.9.12](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.12), 1 week ago) - Community plugins list, theme list, and releases of Obsidian.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.9.12](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.12), 2 weeks ago) - Community plugins list, theme list, and releases of Obsidian.
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.7.2](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.7.2), 2 weeks ago) - Russian Fishing 4 Bot
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 11 months ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
@@ -78,7 +78,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (5 months ago)
+- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (6 months ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (6 months ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Bot (6 months ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (7 months ago)
