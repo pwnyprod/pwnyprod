@@ -65,6 +65,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
+- [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (today)
 - [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (6 months ago)
 - [Feature: adding reel burning detection](https://github.com/dereklee0310/RussianFishing4Script/pull/47) on [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) (7 months ago)
 - [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (11 months ago)
@@ -74,7 +75,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (3 years ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (3 years ago)
 - [added labler config and workflow for PR](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/22) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (3 years ago)
-- [added missing IDE Versions and fixing qodana warnings](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin/pull/20) on [valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin](https://github.com/valantic-CEC-Deutschland-GmbH/spryker-kit-intellij-plugin) (3 years ago)
 
 #### ⭐ Recent Stars
 
