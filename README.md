@@ -48,6 +48,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (1 week ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (1 week ago)
+- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (2 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (8 months ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Script (8 months ago)
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (10 months ago)
@@ -61,6 +62,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### :chocolate_bar: Latest releases I've contributed to
 
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.8.3](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.8.3), 4 days ago) - Russian Fishing 4 Script
+- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 6 months ago) - Social Media -&gt; Tandoor / Mealie
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 1 year ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
 #### :cookie: My recent Pull Requests
