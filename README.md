@@ -47,7 +47,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### :zap: Check out what I'm currently working on
 
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (3 weeks ago)
-- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (3 weeks ago)
+- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (4 weeks ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (2 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (8 months ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Script (9 months ago)
@@ -80,8 +80,8 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (6 days ago)
-- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (1 week ago)
+- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (1 week ago)
+- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (2 weeks ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (2 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (8 months ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (9 months ago)
