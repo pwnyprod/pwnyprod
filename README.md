@@ -61,7 +61,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.8.4](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.8.4), 4 days ago) - Russian Fishing 4 Script
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.8.4](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.8.4), 5 days ago) - Russian Fishing 4 Script
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 7 months ago) - Social Media -&gt; Tandoor / Mealie
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 1 year ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
@@ -80,8 +80,8 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (1 week ago)
-- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (2 weeks ago)
+- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (2 weeks ago)
+- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (3 weeks ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (2 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (9 months ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (9 months ago)
