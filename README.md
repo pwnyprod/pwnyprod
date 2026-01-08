@@ -50,7 +50,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (2 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (3 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (9 months ago)
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Script (10 months ago)
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes. (10 months ago)
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (11 months ago)
 
 #### :fries: My latest projects
@@ -61,7 +61,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.8.7](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.8.7), 1 week ago) - Russian Fishing 4 Script
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.8.7](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.8.7), 1 week ago) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes.
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 8 months ago) - Social Media -&gt; Tandoor / Mealie
 - [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) ([1.0.0](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin/releases/tag/1.0.0), 1 year ago) - A Plugin to Sync full Confluence Spaces to Obsidian.
 
@@ -85,7 +85,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (3 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (10 months ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (10 months ago)
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - Russian Fishing 4 Script (11 months ago)
+- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes. (11 months ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (11 months ago)
 - [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons. (1 year ago)
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices. (1 year ago)
