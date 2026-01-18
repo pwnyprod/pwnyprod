@@ -51,7 +51,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (4 months ago)
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration (10 months ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes. (10 months ago)
-- [pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin) - A Plugin to Sync full Confluence Spaces to Obsidian. (1 year ago)
 
 #### :fries: My latest projects
 
