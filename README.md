@@ -80,7 +80,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### ⭐ Recent Stars
 
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (1 month ago)
-- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (1 month ago)
+- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (2 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (4 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (10 months ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (10 months ago)
