@@ -59,7 +59,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) ([v0.9.1](https://github.com/dereklee0310/RussianFishing4Script/releases/tag/v0.9.1), 2 weeks ago) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes.
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 9 months ago) - Social Media -&gt; Tandoor / Mealie
 
 #### :cookie: My recent Pull Requests
