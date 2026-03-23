@@ -46,7 +46,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (today)
+- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (1 day ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (4 months ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (4 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (6 months ago)
@@ -58,7 +58,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), today) - 
+- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 1 day ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 10 months ago) - Social Media -&gt; Tandoor / Mealie
 
 #### :cookie: My recent Pull Requests
