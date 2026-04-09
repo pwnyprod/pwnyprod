@@ -46,7 +46,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (1 week ago)
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (2 weeks ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (2 weeks ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (5 months ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (5 months ago)
