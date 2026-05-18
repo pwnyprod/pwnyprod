@@ -79,7 +79,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (2 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (5 months ago)
-- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (5 months ago)
+- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (6 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (8 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (1 year ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (1 year ago)
