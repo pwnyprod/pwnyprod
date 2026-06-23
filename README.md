@@ -60,14 +60,14 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.76.0](https://github.com/spryker/docker-sdk/releases/tag/1.76.0), 3 weeks ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.76.0](https://github.com/spryker/docker-sdk/releases/tag/1.76.0), 4 weeks ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 3 months ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
 #### :cookie: My recent Pull Requests
 
 - [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (3 weeks ago)
-- [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (8 months ago)
+- [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (9 months ago)
 - [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (1 year ago)
 - [Feature: adding reel burning detection](https://github.com/dereklee0310/RussianFishing4Script/pull/47) on [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) (1 year ago)
 - [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (2 years ago)
@@ -79,7 +79,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (today)
+- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (1 day ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (3 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (6 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (7 months ago)
