@@ -47,7 +47,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### :zap: Check out what I'm currently working on
 
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (1 week ago)
-- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (2 months ago)
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (3 months ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (3 months ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (7 months ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (7 months ago)
@@ -66,7 +66,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
-- [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (3 weeks ago)
+- [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (4 weeks ago)
 - [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (9 months ago)
 - [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (1 year ago)
 - [Feature: adding reel burning detection](https://github.com/dereklee0310/RussianFishing4Script/pull/47) on [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) (1 year ago)
@@ -79,9 +79,9 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (1 day ago)
+- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (2 days ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (3 months ago)
-- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (6 months ago)
+- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (7 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (7 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (9 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (1 year ago)
