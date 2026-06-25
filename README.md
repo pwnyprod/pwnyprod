@@ -60,7 +60,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.76.0](https://github.com/spryker/docker-sdk/releases/tag/1.76.0), 4 weeks ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.76.0](https://github.com/spryker/docker-sdk/releases/tag/1.76.0), 1 month ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 3 months ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
@@ -79,7 +79,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (2 days ago)
+- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (3 days ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (3 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (7 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (7 months ago)
