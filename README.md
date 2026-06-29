@@ -79,7 +79,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (6 days ago)
+- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (1 week ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (3 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (7 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (7 months ago)
