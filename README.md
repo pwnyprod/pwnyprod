@@ -73,7 +73,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [Add plugin: Confluence Space Sync](https://github.com/obsidianmd/obsidian-releases/pull/4359) on [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) (2 years ago)
 - [Feature: ToDo is Child of Heading](https://github.com/lumoe/obsidian-rollover-daily-todos/pull/148) on [lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos) (2 years ago)
 - [✨📦 Update default values in DataProviderConfig](https://github.com/xervice/data-provider/pull/14) on [xervice/data-provider](https://github.com/xervice/data-provider) (2 years ago)
-- [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (3 years ago)
+- [adding language tag as env var and document env vars](https://github.com/aPinat/RiotEsportsRewardsBot/pull/1) on [aPinat/RiotEsportsRewardsBot](https://github.com/aPinat/RiotEsportsRewardsBot) (4 years ago)
 - [adding automatic build and release CI](https://github.com/mmozeiko/TwitchNotify/pull/3) on [mmozeiko/TwitchNotify](https://github.com/mmozeiko/TwitchNotify) (4 years ago)
 - [refactor action and add badge](https://github.com/pwnyprod/TwitchNotify/pull/1) on [pwnyprod/TwitchNotify](https://github.com/pwnyprod/TwitchNotify) (4 years ago)
 
