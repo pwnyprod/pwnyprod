@@ -48,7 +48,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (1 month ago)
 - [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (3 months ago)
-- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (3 months ago)
+- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (4 months ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (8 months ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (8 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (10 months ago)
@@ -61,7 +61,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### :chocolate_bar: Latest releases I've contributed to
 
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.76.0](https://github.com/spryker/docker-sdk/releases/tag/1.76.0), 1 month ago) - Spryker Commerce OS - Docker SDK
-- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 3 months ago) - 
+- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 4 months ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
 #### :cookie: My recent Pull Requests
@@ -79,8 +79,8 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (2 weeks ago)
-- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (3 weeks ago)
+- [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (3 weeks ago)
+- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (4 weeks ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (4 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (7 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (8 months ago)
