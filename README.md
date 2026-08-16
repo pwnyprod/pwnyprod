@@ -60,7 +60,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.77.0](https://github.com/spryker/docker-sdk/releases/tag/1.77.0), 5 days ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.77.0](https://github.com/spryker/docker-sdk/releases/tag/1.77.0), 6 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 4 months ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
@@ -83,7 +83,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (1 month ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (5 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (8 months ago)
-- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (8 months ago)
+- [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (9 months ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (11 months ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (1 year ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (1 year ago)
