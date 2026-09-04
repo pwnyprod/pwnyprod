@@ -1,7 +1,7 @@
 # Agent instructions
 
 `AGENTS.md` is the canonical project instruction file. `CLAUDE.md`, `GEMINI.md`,
-and `.github/copilot-instructions.md` are synchronized mirrors.
+and `.github/copilot-instructions.md` are symlinks to it.
 
 ## Project
 
@@ -40,18 +40,22 @@ No project-specific build, test, lint, or formatter command is configured.
   order unless the task explicitly changes them.
 - Keep changes focused on the requested README or workflow behavior.
 
-## Security and constraints
+## Guardrails
 
-- Never commit, print, or copy GitHub tokens or other secrets. The workflow
-  receives `PERSONAL_GITHUB_TOKEN` and `GITHUB_TOKEN` through Actions secrets.
-- Do not modify generated `README.md` as a substitute for changing the template.
-- Do not change the workflow's target branch, permissions, or secret names
-  without verifying the required GitHub Actions behavior.
+- Never commit, print, or copy GitHub tokens or other secrets; the workflow reads
+  `PERSONAL_GITHUB_TOKEN` and `GITHUB_TOKEN` from Actions secrets.
+- Never hand-edit generated `README.md`; edit `templates/README.md.tpl` instead.
+- Do not change the workflow's target branch, permissions, or secret names without
+  verifying the required GitHub Actions behavior.
 - Do not modify `.idea/`, `out/`, `gen/`, or other generated IDE files.
-- Do not change unrelated profile content or linked repositories while working
-  on the README generator.
+- Do not change unrelated profile content or linked repositories while working on
+  the README generator.
 
-## Commits and pull requests
+## Harness references
 
+- Path-scoped README rules: `.github/instructions/readme-generator.instructions.md`;
+  Antigravity mirror: `.agents/rules/readme-generator.md`.
+- Reusable README workflow: `.agents/skills/readme-scribe-update/SKILL.md`.
+- Reusable prompt `validate-readme-change`: `.github/prompts/validate-readme-change.prompt.md`;
+  native mirrors exist for Claude and Gemini; Codex and Antigravity use this reference.
 - Do not create commits or push changes unless explicitly requested.
-- Summarize template/workflow changes and validation in the pull request.

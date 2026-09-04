@@ -1,0 +1,12 @@
+description = "Use the reusable README Scribe update workflow for pwnyprod."
+
+prompt = """
+Use the reusable workflow from this local Agent Skill:
+
+.agents/skills/readme-scribe-update/SKILL.md
+
+First read that file in full, then apply it to this project.
+Optional focus / extra input:
+
+{{args}}
+"""
