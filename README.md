@@ -60,7 +60,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.78.0](https://github.com/spryker/docker-sdk/releases/tag/1.78.0), 1 day ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.78.0](https://github.com/spryker/docker-sdk/releases/tag/1.78.0), 2 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 5 months ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
@@ -79,7 +79,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (today)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 day ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (2 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (2 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (6 months ago)
