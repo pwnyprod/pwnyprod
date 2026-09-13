@@ -46,13 +46,13 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (1 day ago)
+- [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (2 days ago)
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (3 months ago)
 - [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (5 months ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (5 months ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (10 months ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (10 months ago)
-- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (11 months ago)
+- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (1 year ago)
 
 #### :fries: My latest projects
 
@@ -62,7 +62,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.78.0](https://github.com/spryker/docker-sdk/releases/tag/1.78.0), 3 days ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.78.0](https://github.com/spryker/docker-sdk/releases/tag/1.78.0), 4 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 5 months ago) - 
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
@@ -81,13 +81,13 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 days ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 days ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (2 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (2 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (6 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (9 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (9 months ago)
-- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (11 months ago)
+- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (1 year ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (2 years ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (2 years ago)
 - [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes. (2 years ago)
