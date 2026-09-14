@@ -81,6 +81,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (4 days ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (2 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (2 months ago)
@@ -90,4 +91,3 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (1 year ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (2 years ago)
 - [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers. (2 years ago)
-- [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) - A simple Russian Fishing 4 fishing bot, supporting spin, bottom, marine, and float fishing modes. (2 years ago)
