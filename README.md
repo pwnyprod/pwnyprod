@@ -64,7 +64,6 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.78.0](https://github.com/spryker/docker-sdk/releases/tag/1.78.0), 1 week ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 6 months ago) - 
-- [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) ([v6.3.6](https://github.com/doen1el/instagram-to-tandoor/releases/tag/v6.3.6), 1 year ago) - Social Media -&gt; Tandoor / Mealie
 
 #### :cookie: My recent Pull Requests
 
