@@ -57,6 +57,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### :fries: My latest projects
 
 - [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles
+- [pwnyprod/SAPV_route_optimization](https://github.com/pwnyprod/SAPV_route_optimization) - Digitalisierung Projekt in Maschinenbau an TH Köln
 - [pwnyprod/ulauncher-ipcopy](https://github.com/pwnyprod/ulauncher-ipcopy) - Fast copy for internal and external IP
 - [pwnyprod/grav-plugin-sentry](https://github.com/pwnyprod/grav-plugin-sentry) - Grav Plugin for Sentry Bugtracker Integration
 
