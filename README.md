@@ -81,10 +81,10 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (5 days ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (6 days ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 week ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (2 months ago)
-- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (2 months ago)
+- [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (3 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (6 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (9 months ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (10 months ago)
