@@ -62,7 +62,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.79.0](https://github.com/spryker/docker-sdk/releases/tag/1.79.0), 1 day ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.79.0](https://github.com/spryker/docker-sdk/releases/tag/1.79.0), 2 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 6 months ago) - 
 
 #### :cookie: My recent Pull Requests
