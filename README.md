@@ -51,7 +51,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (6 months ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (6 months ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (10 months ago)
-- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (10 months ago)
+- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (11 months ago)
 
 #### :fries: My latest projects
 
@@ -62,7 +62,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.79.0](https://github.com/spryker/docker-sdk/releases/tag/1.79.0), 6 days ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.79.0](https://github.com/spryker/docker-sdk/releases/tag/1.79.0), 1 week ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 6 months ago) - 
 
 #### :cookie: My recent Pull Requests
@@ -81,7 +81,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### ⭐ Recent Stars
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 weeks ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 weeks ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (3 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (3 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (6 months ago)
