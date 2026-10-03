@@ -1,4 +1,4 @@
-# Agent-Harness — Stand 2026-09-13
+# Agent-Harness — Stand 2026-10-03
 
 Gepflegt vom Skill `agent-instructions-optimize`. Der nächste Lauf liest den
 Backlog zuerst.
@@ -8,10 +8,10 @@ Backlog zuerst.
 | Dimension | Vorher | Nachher |
 |---|---:|---:|
 | Kanonik & Symlinks | 3 | 3 |
-| Faktentreue | 3 | 3 |
+| Faktentreue | 2 | 3 |
 | Kontext-Ökonomie | 3 | 3 |
 | Navigationskarte | 3 | 3 |
-| Guardrails | 2 | 3 |
+| Guardrails | 3 | 3 |
 | Verifikations-Schleife | 3 | 3 |
 | Path-scoped Instructions | 3 | 3 |
 | Skills | 3 | 3 |
@@ -29,53 +29,44 @@ Backlog zuerst.
 | copilot | `.github/copilot-instructions.md` | Symlink → `../AGENTS.md`, Git-Modus `120000` |
 | opencode | `AGENTS.md` (dieselbe Datei wie codex) | real, kein Extra-Symlink nötig |
 
-Guardrails-Abschnitt in `AGENTS.md`: vorhanden, gegen den Schritt-6-Katalog (destruktive
-Targets, Prod-Deploy, Secrets-Dateien, Force-Push-CI) durchgeprüft — für dieses Repo
-vollständig oder nicht zutreffend (kein Makefile, keine `.env`, kein Force-Push-Job).
+Keine verschachtelten `AGENTS.md` (Suche ohne `.git/` und `graphify-out/`).
+Guardrails-Abschnitt in `AGENTS.md`: vorhanden; um `graphify-out/` ergänzt.
 Path-scoped Regeln: `.github/instructions/readme-generator.instructions.md` +
-Antigravity-Spiegel `.agents/rules/readme-generator.md`, beide inhaltsgleich mit
-Workflow/Template verifiziert.
+Antigravity-Spiegel `.agents/rules/readme-generator.md` (inhaltsgleich).
 Skill gespiegelt: `.agents/skills/readme-scribe-update/SKILL.md` plus
 `.claude/skills/readme-scribe-update` und `.copilot/skills/readme-scribe-update`
-(Symlinks, verifiziert) und `.gemini/commands/readme-scribe-update.toml` (Wrapper).
-Prompt gespiegelt: 3 von 3 nativ unterstützten Agents (`.github/prompts/validate-readme-change.prompt.md`,
-`.claude/commands/validate-readme-change.md`, `.gemini/commands/validate-readme-change.toml`);
+(Symlinks, Git-Modus `120000`) und `.gemini/commands/readme-scribe-update.toml` (Wrapper).
+Prompt gespiegelt: 3 von 3 nativ unterstützten Agents (copilot/claude/gemini);
 Codex und Antigravity per Verweiszeile in `AGENTS.md`.
+Technische Durchsetzung: `.claude/settings*.json`, `.gemini/settings.json`,
+`.codex/config.toml`, `.mcp.json` existieren nicht.
 
 ## In diesem Lauf
 
-Reiner Verifikationslauf — keine Drift gefunden, nichts inhaltlich geändert.
-
-- `.agents/harness.md`-Backlog vom 2026-09-03 abgearbeitet:
-  1. `.github/workflows/readme-scribe.yml` gegen `AGENTS.md` gelesen und geprüft: Template-Pfad
-     (`templates/README.md.tpl`), `writeTo` (`README.md`), Secrets (`PERSONAL_GITHUB_TOKEN`,
-     `GITHUB_TOKEN`) und Ziel-Branch (`main`) stimmen weiterhin exakt mit der Dokumentation überein.
-  2. `.claude/settings.json`, `.gemini/settings.json`, `.codex/config.toml` erneut geprüft:
-     existieren weiterhin nicht — keine technische Durchsetzung zu referenzieren.
-  3. Keine neuen wiederkehrenden Teilbaum-Workflows im Repo gefunden — kein neuer
-     Skill/Prompt nötig.
-- Alle vier Kanonik-Dateien erneut per `readlink`/`git ls-files -s` verifiziert: drei
-  Symlinks korrekt (`120000`), `AGENTS.md` real (`100644`).
-- `.gitignore` gegen den Text „IntelliJ project files and generated IDE output" in
-  `AGENTS.md` abgeglichen (`.idea`, `*.iml`, `out`, `gen`) — deckt sich.
-- `README.md` gegen `templates/README.md.tpl` verglichen: Kopf identisch (erwartetes
-  Generat-Verhalten des Workflows), keine manuelle Abweichung.
-- Guardrails-Dimension von 2 auf 3 gehoben: gegen den vollständigen Schritt-6-Katalog
-  geprüft, keine belegte Lücke mehr offen für dieses Repo.
-- `git status --short` zeigt nur `.DS_Store` und `graphify-out/` als untracked — beides
-  außerhalb des Harness-Scopes, nicht angefasst.
+- Drift seit letztem Lauf: Commits `8ea071f`/`361a228` (2026-09-25) haben `.DS_Store` und
+  `graphify-out/` in `.gitignore` aufgenommen → `AGENTS.md`-Beschreibung von `.gitignore`
+  korrigiert und Guardrail „generierte lokale Dateien" um `graphify-out/` ergänzt.
+- Workflow-Gotcha aufgenommen: Bot committet bei jedem Push und stündlich auf `main`
+  (Beleg: `readme-scribe.yml` `cron: "0 */1 * * *"`, `branch: main`; 1039 Bot-Commits) →
+  vor dem Push `origin/main` integrieren.
+- Commit-Konvention belegt aufgenommen: letzte 5 menschliche Commits sind englische
+  Conventional Commits (`docs:`/`chore:`/`fix:`), Bot-Commits `Update generated README`.
+- Backlog 1 erledigt: Workflow schreibt weiterhin `templates/README.md.tpl` → `README.md`
+  auf `main` mit `PERSONAL_GITHUB_TOKEN`/`GITHUB_TOKEN`; Actions bleiben auf `@master`/`@v4`
+  (keine Patch-Versionen in `AGENTS.md`).
+- Backlog 2: Settings-Dateien existieren weiterhin nicht. Backlog 3: keine neuen Kandidaten.
+- Secrets-Scan über alle getrackten Dateien: keine Klartext-Tokens; Workflow nutzt nur
+  `secrets.*`-Referenzen.
+- Fixup-Muster im Log: einmalig `361a228` (per Skript angehängte `.gitignore`-Zeile ohne
+  Zeilenumbruch), ein Merge `57aa080` von 2022 — nicht wiederkehrend, kein Skill/Prompt nötig.
 
 ## Backlog (nächster Lauf, wichtigstes zuerst)
 
-1. Bei nächstem Lauf erneut prüfen, dass `.github/workflows/readme-scribe.yml` weiterhin
-   `templates/README.md.tpl` → `README.md` gegen `main` schreibt (einzige Stelle, die sich
-   ohne Repo-Commit ändern könnte, z. B. durch GitHub-UI-Edits).
-2. Sollte künftig `.claude/settings.json`, `.gemini/settings.json` oder `.codex/config.toml`
-   angelegt werden, Guardrails-Abschnitt in `AGENTS.md` gegen deren `permissions`/Approval-
-   Overrides abgleichen und die Lücke im Bericht vermerken (dieser Skill editiert diese
-   Dateien nicht selbst).
-3. Neue Teilbäume/Workflows nur bei belegten, wiederkehrenden Mustern um path-scoped
-   Instructions oder Skills erweitern — aktuell keine Kandidaten.
+1. `.github/workflows/readme-scribe.yml` erneut gegen `AGENTS.md` prüfen (Template-Pfad,
+   `writeTo`, `main`, Secret-Namen, Trigger).
+2. `.gitignore` gegen die Aufzählung in `AGENTS.md` und die Guardrail-Zeile abgleichen.
+3. Falls `.claude/settings.json`, `.gemini/settings.json` oder `.codex/config.toml` angelegt
+   werden: Guardrails dagegen abgleichen (nicht selbst editieren).
 
 ## Offene Fragen an den User
 

@@ -21,7 +21,10 @@ GitHub profile repository for `pwnyprod` / Jonas Hoppe.
 - Keep the template's `readme-scribe` directives intact when changing its
   layout or sections.
 - `.github/workflows/readme-scribe.yml` is the only project workflow.
-- `.gitignore` excludes IntelliJ project files and generated IDE output.
+- `.gitignore` excludes IntelliJ project files (`.idea`, `*.iml`, `out`, `gen`),
+  `.DS_Store`, and local graphify output (`graphify-out/`).
+- The workflow commits to `main` on every push and hourly, so local `main` is
+  usually behind; integrate `origin/main` before pushing.
 
 ## Validation
 
@@ -39,6 +42,8 @@ No project-specific build, test, lint, or formatter command is configured.
 - Preserve the existing GitHub profile links, template directives, and section
   order unless the task explicitly changes them.
 - Keep changes focused on the requested README or workflow behavior.
+- Human commits use English Conventional Commits (`docs:`, `chore:`, `fix:`);
+  the workflow's bot commits use `Update generated README`.
 
 ## Guardrails
 
@@ -47,7 +52,8 @@ No project-specific build, test, lint, or formatter command is configured.
 - Never hand-edit generated `README.md`; edit `templates/README.md.tpl` instead.
 - Do not change the workflow's target branch, permissions, or secret names without
   verifying the required GitHub Actions behavior.
-- Do not modify `.idea/`, `out/`, `gen/`, or other generated IDE files.
+- Do not modify `.idea/`, `out/`, `gen/`, `graphify-out/`, or other generated
+  local files.
 - Do not change unrelated profile content or linked repositories while working on
   the README generator.
 
