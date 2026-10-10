@@ -47,7 +47,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### :zap: Check out what I'm currently working on
 
 - [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (4 weeks ago)
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (3 months ago)
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (4 months ago)
 - [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (6 months ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (6 months ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (11 months ago)
@@ -81,7 +81,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 #### ⭐ Recent Stars
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 weeks ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (4 weeks ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (3 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (3 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (7 months ago)
