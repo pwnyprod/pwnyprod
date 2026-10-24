@@ -62,12 +62,12 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.81.0](https://github.com/spryker/docker-sdk/releases/tag/1.81.0), 1 day ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.81.0](https://github.com/spryker/docker-sdk/releases/tag/1.81.0), 2 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 7 months ago) - 
 
 #### :cookie: My recent Pull Requests
 
-- [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (4 months ago)
+- [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (5 months ago)
 - [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (1 year ago)
 - [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (2 years ago)
 - [Feature: adding reel burning detection](https://github.com/dereklee0310/RussianFishing4Script/pull/47) on [dereklee0310/RussianFishing4Script](https://github.com/dereklee0310/RussianFishing4Script) (2 years ago)
