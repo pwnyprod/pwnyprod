@@ -46,7 +46,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (4 days ago)
+- [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (5 days ago)
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (5 months ago)
 - [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (7 months ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (7 months ago)
@@ -65,7 +65,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :cookie: My recent Pull Requests
 
-- [Add bash scripts for macOS/Linux compatibility](https://github.com/mkennten/copilot-cli-workshop/pull/1) on [mkennten/copilot-cli-workshop](https://github.com/mkennten/copilot-cli-workshop) (today)
+- [Add bash scripts for macOS/Linux compatibility](https://github.com/mkennten/copilot-cli-workshop/pull/1) on [mkennten/copilot-cli-workshop](https://github.com/mkennten/copilot-cli-workshop) (1 day ago)
 - [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (5 months ago)
 - [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (1 year ago)
 - [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (2 years ago)
@@ -78,7 +78,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### ⭐ Recent Stars
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (4 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (4 months ago)
