@@ -46,9 +46,9 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (6 days ago)
-- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (6 days ago)
-- [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (6 days ago)
+- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (1 week ago)
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (1 week ago)
+- [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (1 week ago)
 - [Gaming-Configs-Overdrive/game-config-installer](https://github.com/Gaming-Configs-Overdrive/game-config-installer) - General Installer Skeleton for the Game Packages. (1 week ago)
 - [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (1 week ago)
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (5 months ago)
@@ -63,15 +63,15 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.82.0](https://github.com/spryker/docker-sdk/releases/tag/1.82.0), 3 days ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), today) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 8 months ago) - 
 
 #### :cookie: My recent Pull Requests
 
-- [♻️ refactor(build): migrate to modern skeleton](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077/pull/1) on [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) (6 days ago)
-- [♻️ refactor(build): migrate to modern skeleton and gco-install](https://github.com/Gaming-Configs-Overdrive/Apex-Legends/pull/1) on [Gaming-Configs-Overdrive/Apex-Legends](https://github.com/Gaming-Configs-Overdrive/Apex-Legends) (6 days ago)
-- [♻️ refactor(build): modern skeleton with game.yml, node build and org workflows](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton/pull/1) on [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) (6 days ago)
-- [👷 ci(workflows): add reusable game workflows](https://github.com/Gaming-Configs-Overdrive/.github/pull/1) on [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) (6 days ago)
+- [♻️ refactor(build): migrate to modern skeleton](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077/pull/1) on [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) (1 week ago)
+- [♻️ refactor(build): migrate to modern skeleton and gco-install](https://github.com/Gaming-Configs-Overdrive/Apex-Legends/pull/1) on [Gaming-Configs-Overdrive/Apex-Legends](https://github.com/Gaming-Configs-Overdrive/Apex-Legends) (1 week ago)
+- [♻️ refactor(build): modern skeleton with game.yml, node build and org workflows](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton/pull/1) on [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) (1 week ago)
+- [👷 ci(workflows): add reusable game workflows](https://github.com/Gaming-Configs-Overdrive/.github/pull/1) on [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) (1 week ago)
 - [Add bash scripts for macOS/Linux compatibility](https://github.com/mkennten/copilot-cli-workshop/pull/1) on [mkennten/copilot-cli-workshop](https://github.com/mkennten/copilot-cli-workshop) (1 week ago)
 - [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (5 months ago)
 - [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (1 year ago)
