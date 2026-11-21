@@ -63,7 +63,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), today) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), 1 day ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 8 months ago) - 
 
 #### :cookie: My recent Pull Requests
@@ -86,7 +86,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (4 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (5 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (8 months ago)
-- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (11 months ago)
+- [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (1 year ago)
 - [evevision/evevision](https://github.com/evevision/evevision) - EVE Online Extended UI (1 year ago)
 - [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) - Social Media -&gt; Tandoor / Mealie (1 year ago)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram. (2 years ago)
