@@ -49,7 +49,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (1 week ago)
 - [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (1 week ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (1 week ago)
-- [Gaming-Configs-Overdrive/game-config-installer](https://github.com/Gaming-Configs-Overdrive/game-config-installer) - General Installer Skeleton for the Game Packages. (1 week ago)
+- [Gaming-Configs-Overdrive/game-config-installer](https://github.com/Gaming-Configs-Overdrive/game-config-installer) - General Installer Skeleton for the Game Packages. (2 weeks ago)
 - [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (2 weeks ago)
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (5 months ago)
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (8 months ago)
@@ -63,7 +63,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), 5 days ago) - Spryker Commerce OS - Docker SDK
+- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), 6 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 8 months ago) - 
 
 #### :cookie: My recent Pull Requests
@@ -72,7 +72,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 - [♻️ refactor(build): migrate to modern skeleton and gco-install](https://github.com/Gaming-Configs-Overdrive/Apex-Legends/pull/1) on [Gaming-Configs-Overdrive/Apex-Legends](https://github.com/Gaming-Configs-Overdrive/Apex-Legends) (1 week ago)
 - [♻️ refactor(build): modern skeleton with game.yml, node build and org workflows](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton/pull/1) on [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) (1 week ago)
 - [👷 ci(workflows): add reusable game workflows](https://github.com/Gaming-Configs-Overdrive/.github/pull/1) on [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) (1 week ago)
-- [Add bash scripts for macOS/Linux compatibility](https://github.com/mkennten/copilot-cli-workshop/pull/1) on [mkennten/copilot-cli-workshop](https://github.com/mkennten/copilot-cli-workshop) (1 week ago)
+- [Add bash scripts for macOS/Linux compatibility](https://github.com/mkennten/copilot-cli-workshop/pull/1) on [mkennten/copilot-cli-workshop](https://github.com/mkennten/copilot-cli-workshop) (2 weeks ago)
 - [Ensure Mutagen waits for the CLI container during docker/sdk up with Tideways](https://github.com/spryker/docker-sdk/pull/628) on [spryker/docker-sdk](https://github.com/spryker/docker-sdk) (6 months ago)
 - [Feature/adding OpenAI provider and some refactoring](https://github.com/doen1el/instagram-to-tandoor/pull/19) on [doen1el/instagram-to-tandoor](https://github.com/doen1el/instagram-to-tandoor) (1 year ago)
 - [Rewriting the whole providing for non technical user &#43; cleanup configs](https://github.com/Natram1zh/Apex-Legends-Config/pull/2) on [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) (2 years ago)
@@ -83,7 +83,7 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
-- [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (4 months ago)
+- [floleuerer/deutsche-rechtsprechung-mcp](https://github.com/floleuerer/deutsche-rechtsprechung-mcp) - MCP Server für Deutsche Rechtsprechung von https://www.rechtsprechung-im-internet.de (5 months ago)
 - [HelMirron/cam-mod](https://github.com/HelMirron/cam-mod) -  (5 months ago)
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (8 months ago)
 - [spryker-dev/prompt-library](https://github.com/spryker-dev/prompt-library) -  (1 year ago)
