@@ -46,13 +46,16 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (1 week ago)
-- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (1 week ago)
+- [Gaming-Configs-Overdrive/Escape-from-Duckov](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov) - Configs and mod packs for Escape from Duckov. (today)
+- [Gaming-Configs-Overdrive/Euro-Truck-Simulator-2](https://github.com/Gaming-Configs-Overdrive/Euro-Truck-Simulator-2) - Configs and mod packs for Euro Truck Simulator 2. (today)
+- [Gaming-Configs-Overdrive/Satisfactory](https://github.com/Gaming-Configs-Overdrive/Satisfactory) - Configs and mod packs for Satisfactory. (today)
+- [Gaming-Configs-Overdrive/Subnautica](https://github.com/Gaming-Configs-Overdrive/Subnautica) - Configs and mod packs for Subnautica. (today)
+- [Gaming-Configs-Overdrive/Counter-Strike-2](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2) - Counter-Strike 2 video presets and client configs for PC. (today)
+- [Gaming-Configs-Overdrive/Warhammer-40000-Darktide](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide) - Configs and mod packs for Warhammer 40,000: Darktide. (today)
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (today)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (1 week ago)
+- [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (1 week ago)
 - [Gaming-Configs-Overdrive/game-config-installer](https://github.com/Gaming-Configs-Overdrive/game-config-installer) - General Installer Skeleton for the Game Packages. (2 weeks ago)
-- [pwnyprod/dotfiles-bootstrap](https://github.com/pwnyprod/dotfiles-bootstrap) - Verified stage-0 installer for my private dotfiles (2 weeks ago)
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) - Spryker Commerce OS - Docker SDK (5 months ago)
-- [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) -  (8 months ago)
 
 #### :fries: My latest projects
 
@@ -63,6 +66,8 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
+- [Gaming-Configs-Overdrive/Counter-Strike-2](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2) ([v1.0.0](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2/releases/tag/v1.0.0), today) - Counter-Strike 2 video presets and client configs for PC.
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) ([v1.0.0](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077/releases/tag/v1.0.0), today) - Tweaked config and Mods with QoL
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), 6 days ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 8 months ago) - 
 
