@@ -46,14 +46,14 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :zap: Check out what I'm currently working on
 
-- [Gaming-Configs-Overdrive/game-config-installer](https://github.com/Gaming-Configs-Overdrive/game-config-installer) - General Installer Skeleton for the Game Packages. (1 day ago)
-- [Gaming-Configs-Overdrive/Euro-Truck-Simulator-2](https://github.com/Gaming-Configs-Overdrive/Euro-Truck-Simulator-2) - Configs and mod packs for Euro Truck Simulator 2. (1 day ago)
-- [Gaming-Configs-Overdrive/Counter-Strike-2](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2) - Counter-Strike 2 video presets and client configs for PC. (1 day ago)
-- [Gaming-Configs-Overdrive/Escape-from-Duckov](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov) - Configs and mod packs for Escape from Duckov. (1 day ago)
-- [Gaming-Configs-Overdrive/Warhammer-40000-Darktide](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide) - Configs and mod packs for Warhammer 40,000: Darktide. (1 day ago)
-- [Gaming-Configs-Overdrive/Subnautica](https://github.com/Gaming-Configs-Overdrive/Subnautica) - Configs and mod packs for Subnautica. (1 day ago)
-- [Gaming-Configs-Overdrive/Satisfactory](https://github.com/Gaming-Configs-Overdrive/Satisfactory) - Configs and mod packs for Satisfactory. (1 day ago)
-- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (1 day ago)
+- [Gaming-Configs-Overdrive/game-config-installer](https://github.com/Gaming-Configs-Overdrive/game-config-installer) - General Installer Skeleton for the Game Packages. (2 days ago)
+- [Gaming-Configs-Overdrive/Euro-Truck-Simulator-2](https://github.com/Gaming-Configs-Overdrive/Euro-Truck-Simulator-2) - Configs and mod packs for Euro Truck Simulator 2. (2 days ago)
+- [Gaming-Configs-Overdrive/Counter-Strike-2](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2) - Counter-Strike 2 video presets and client configs for PC. (2 days ago)
+- [Gaming-Configs-Overdrive/Escape-from-Duckov](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov) - Configs and mod packs for Escape from Duckov. (2 days ago)
+- [Gaming-Configs-Overdrive/Warhammer-40000-Darktide](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide) - Configs and mod packs for Warhammer 40,000: Darktide. (2 days ago)
+- [Gaming-Configs-Overdrive/Subnautica](https://github.com/Gaming-Configs-Overdrive/Subnautica) - Configs and mod packs for Subnautica. (2 days ago)
+- [Gaming-Configs-Overdrive/Satisfactory](https://github.com/Gaming-Configs-Overdrive/Satisfactory) - Configs and mod packs for Satisfactory. (2 days ago)
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) - Tweaked config and Mods with QoL (2 days ago)
 - [Gaming-Configs-Overdrive/.github](https://github.com/Gaming-Configs-Overdrive/.github) - FrontPage (2 weeks ago)
 - [Gaming-Configs-Overdrive/game-config-skeleton](https://github.com/Gaming-Configs-Overdrive/game-config-skeleton) - This is a skeleton to create a config for a new game with universal generators that can be configured. (2 weeks ago)
 
@@ -66,12 +66,12 @@ If you wanna contact me or just wanna have a talk or a question from a Project I
 
 #### :chocolate_bar: Latest releases I've contributed to
 
-- [Gaming-Configs-Overdrive/Subnautica](https://github.com/Gaming-Configs-Overdrive/Subnautica) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Subnautica/releases/tag/v2.1.0), 1 day ago) - Configs and mod packs for Subnautica.
-- [Gaming-Configs-Overdrive/Satisfactory](https://github.com/Gaming-Configs-Overdrive/Satisfactory) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Satisfactory/releases/tag/v2.1.0), 1 day ago) - Configs and mod packs for Satisfactory.
-- [Gaming-Configs-Overdrive/Warhammer-40000-Darktide](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide/releases/tag/v2.1.0), 1 day ago) - Configs and mod packs for Warhammer 40,000: Darktide.
-- [Gaming-Configs-Overdrive/Escape-from-Duckov](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov/releases/tag/v2.1.0), 1 day ago) - Configs and mod packs for Escape from Duckov.
-- [Gaming-Configs-Overdrive/Counter-Strike-2](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2) ([v1.0.0](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2/releases/tag/v1.0.0), 1 day ago) - Counter-Strike 2 video presets and client configs for PC.
-- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) ([v1.0.0](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077/releases/tag/v1.0.0), 1 day ago) - Tweaked config and Mods with QoL
+- [Gaming-Configs-Overdrive/Subnautica](https://github.com/Gaming-Configs-Overdrive/Subnautica) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Subnautica/releases/tag/v2.1.0), 2 days ago) - Configs and mod packs for Subnautica.
+- [Gaming-Configs-Overdrive/Satisfactory](https://github.com/Gaming-Configs-Overdrive/Satisfactory) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Satisfactory/releases/tag/v2.1.0), 2 days ago) - Configs and mod packs for Satisfactory.
+- [Gaming-Configs-Overdrive/Warhammer-40000-Darktide](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Warhammer-40000-Darktide/releases/tag/v2.1.0), 2 days ago) - Configs and mod packs for Warhammer 40,000: Darktide.
+- [Gaming-Configs-Overdrive/Escape-from-Duckov](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov) ([v2.1.0](https://github.com/Gaming-Configs-Overdrive/Escape-from-Duckov/releases/tag/v2.1.0), 2 days ago) - Configs and mod packs for Escape from Duckov.
+- [Gaming-Configs-Overdrive/Counter-Strike-2](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2) ([v1.0.0](https://github.com/Gaming-Configs-Overdrive/Counter-Strike-2/releases/tag/v1.0.0), 2 days ago) - Counter-Strike 2 video presets and client configs for PC.
+- [Gaming-Configs-Overdrive/Cyberpunk-2077](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077) ([v1.0.0](https://github.com/Gaming-Configs-Overdrive/Cyberpunk-2077/releases/tag/v1.0.0), 2 days ago) - Tweaked config and Mods with QoL
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.83.0](https://github.com/spryker/docker-sdk/releases/tag/1.83.0), 1 week ago) - Spryker Commerce OS - Docker SDK
 - [Natram1zh/Apex-Legends-Config](https://github.com/Natram1zh/Apex-Legends-Config) ([v1.0.4](https://github.com/Natram1zh/Apex-Legends-Config/releases/tag/v1.0.4), 8 months ago) - 
 
